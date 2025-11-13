@@ -1,0 +1,34 @@
+{
+    "name": "Eureka News - Abstract Blockchain News & Directory",
+    "short_name": "Eureka News",
+    "description": "Your source for Abstract blockchain news, real-time crypto prices, and NFT market data",
+    "icons": [
+       {
+          "src": "/images/android-chrome-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+       },
+       {
+         "src": "/images/apple-touch-icon.png",
+         "sizes": "180x180",
+         "type": "image/png"
+       },
+       {
+         "src": "/images/favicon-32x32.png",
+         "sizes": "32x32",
+         "type": "image/png"
+       },
+       {
+         "src": "/images/favicon-16x16.png",
+         "sizes": "16x16",
+         "type": "image/png"
+       }
+    ],
+    "theme_color": "#ffa3ff",
+    "background_color": "#00142d",
+    "display": "standalone",
+    "start_url": "/",
+    "scope": "/",
+    "orientation": "portrait-primary",
+    "categories": ["news", "finance", "business"]
+} 
