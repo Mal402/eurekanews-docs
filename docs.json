@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Documentation",
+        "tab": "Guide",
         "groups": [
           {
             "group": "Getting Started",
@@ -75,8 +75,8 @@
     }
   },
   "logo": {
-    "light": "/logo/android-chrome-512x512.png",
-    "dark": "/logo/android-chrome-512x512.png"
+    "light": "/logo/eureka-icon.svg",
+    "dark": "/logo/eureka-icon.svg"
   },
   "navbar": {
     "links": [],
