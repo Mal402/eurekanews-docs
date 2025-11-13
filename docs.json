@@ -21,16 +21,6 @@
             ]
           },
           {
-            "group": "For Readers",
-            "pages": [
-              "readers/getting-started",
-              "readers/browsing-content",
-              "readers/engaging-with-content",
-              "readers/staying-updated",
-              "readers/reader-tips"
-            ]
-          },
-          {
             "group": "For Writers",
             "pages": [
               "writers/getting-started",
@@ -46,6 +36,16 @@
             "group": "For Editors",
             "pages": [
               "editors/breaking-news"
+            ]
+          },
+          {
+            "group": "For Readers",
+            "pages": [
+              "readers/getting-started",
+              "readers/browsing-content",
+              "readers/engaging-with-content",
+              "readers/staying-updated",
+              "readers/reader-tips"
             ]
           },
           {
