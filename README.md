@@ -12,7 +12,12 @@ This documentation is built with [Mintlify](https://mintlify.com) and provides c
 ```
 ├── index.mdx                    # Homepage
 ├── about.mdx                    # About Eureka News
-├── reader-guide.mdx            # Complete reader guide
+├── readers/                     # Reader documentation
+│   ├── getting-started.mdx
+│   ├── browsing-content.mdx
+│   ├── engaging-with-content.mdx
+│   ├── staying-updated.mdx
+│   └── reader-tips.mdx
 ├── writers/                     # Writer documentation
 │   ├── getting-started.mdx
 │   ├── first-article.mdx

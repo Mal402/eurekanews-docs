@@ -17,8 +17,17 @@
             "group": "Getting Started",
             "pages": [
               "index",
-              "about",
-              "reader-guide"
+              "about"
+            ]
+          },
+          {
+            "group": "For Readers",
+            "pages": [
+              "readers/getting-started",
+              "readers/browsing-content",
+              "readers/engaging-with-content",
+              "readers/staying-updated",
+              "readers/reader-tips"
             ]
           },
           {
@@ -92,8 +101,7 @@
   "footer": {
     "socials": {
       "x": "https://twitter.com/eurekanewsxyz",
-      "github": "https://github.com/eurekanews",
-      "discord": "https://discord.gg/eurekanews"
+      "discord": "https://discord.gg/mW885Yabmn"
     }
   }
 }
