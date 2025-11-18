@@ -8,75 +8,68 @@
     "dark": "#15803D"
   },
   "favicon": "/favicon.ico",
-  "navigation": {
-    "tabs": [
-      {
-        "tab": "Guide",
-        "groups": [
-          {
-            "group": "Getting Started",
-            "pages": [
-              "index",
-              "about"
-            ]
-          },
-          {
-            "group": "For Writers",
-            "pages": [
-              "writers/getting-started",
-              "writers/first-article",
-              "writers/tags",
-              "writers/review-workflow",
-              "writers/best-practices",
-              "writers/troubleshooting",
-              "writers/faq"
-            ]
-          },
-          {
-            "group": "For Editors",
-            "pages": [
-              "editors/getting-started",
-              "editors/breaking-news"
-            ]
-          },
-          {
-            "group": "For Readers",
-            "pages": [
-              "readers/getting-started",
-              "readers/browsing-content",
-              "readers/engaging-with-content",
-              "readers/staying-updated",
-              "readers/reader-tips"
-            ]
-          },
-          {
-            "group": "Platform",
-            "pages": [
-              "platform-capabilities",
-              "roles-and-responsibilities",
-              "media-kit",
-              "revenue-model",
-              "additional-resources",
-              "support"
-            ]
-          }
-        ]
-      }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Eureka News",
-          "href": "https://eurekanews.xyz",
-          "icon": "newspaper"
-        },
-        {
-          "anchor": "Twitter",
-          "href": "https://twitter.com/eurekanewsxyz",
-          "icon": "x"
-        }
+  "navigation": [
+    {
+      "group": "Getting Started",
+      "pages": [
+        "index",
+        "about"
+      ]
+    },
+    {
+      "group": "For Writers",
+      "pages": [
+        "writers/getting-started",
+        "writers/first-article",
+        "writers/tags",
+        "writers/review-workflow",
+        "writers/best-practices",
+        "writers/troubleshooting",
+        "writers/faq"
+      ]
+    },
+    {
+      "group": "For Editors",
+      "pages": [
+        "editors/getting-started",
+        "editors/breaking-news"
+      ]
+    },
+    {
+      "group": "For Readers",
+      "pages": [
+        "readers/getting-started",
+        "readers/browsing-content",
+        "readers/engaging-with-content",
+        "readers/staying-updated",
+        "readers/reader-tips"
+      ]
+    },
+    {
+      "group": "Platform",
+      "pages": [
+        "platform-capabilities",
+        "roles-and-responsibilities",
+        "media-kit",
+        "revenue-model",
+        "additional-resources",
+        "support"
       ]
     }
+  ],
+  "global": {
+    "anchors": [
+      {
+        "anchor": "Eureka News",
+        "href": "https://eurekanews.xyz",
+        "icon": "newspaper"
+      },
+      {
+        "anchor": "Twitter",
+        "href": "https://twitter.com/eurekanewsxyz",
+        "icon": "x"
+      }
+    ]
   },
   "logo": {
     "light": "/logo/eureka-icon.svg",
