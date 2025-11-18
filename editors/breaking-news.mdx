@@ -70,17 +70,25 @@ Editors can publish breaking news for time-sensitive updates that need to go liv
 - Cite sources for price data
 - Verify information before publishing
 
-### Using Twitter Embeds
+### Embedding Content
+
+#### Twitter Embeds
 
 **Best Practice:**
 
 ```markdown
 Big news from @AbstractChain:
 
-https://twitter.com/AbstractChain/status/1234567890
+![Tweet](https://twitter.com/AbstractChain/status/1234567890)
 
 This changes everything for DeFi on Abstract!
 ```
+
+**Format:** `![Tweet](url to x post)`
+
+<Tip>
+  The editor will automatically format Twitter/X links if you paste them as plain URLs. You can either use the formatted syntax above or simply paste the URL on its own line.
+</Tip>
 
 **Why this works:**
 
@@ -88,6 +96,42 @@ This changes everything for DeFi on Abstract!
 - Uses emojis for attention (sparingly)
 - Adds commentary after the embed
 - Makes the tweet part of a narrative
+
+#### YouTube Embeds
+
+To embed a YouTube video, use the following format:
+
+```markdown
+Watch the official announcement:
+
+![YouTube](https://www.youtube.com/watch?v=VIDEO_ID)
+
+This video explains the new features in detail.
+```
+
+**Format:** `![YouTube](https://www.youtube.com/watch?v=VIDEO_ID)`
+
+<Tip>
+  The editor will automatically format YouTube links if you paste them as plain URLs. You can either use the formatted syntax above or simply paste the URL on its own line.
+</Tip>
+
+**Supported formats:**
+- `https://www.youtube.com/watch?v=VIDEO_ID`
+- `https://youtu.be/VIDEO_ID`
+- `https://www.youtube.com/embed/VIDEO_ID`
+
+#### URL Links
+
+To create clickable links, use standard Markdown syntax:
+
+```markdown
+Visit the [official website](https://example.com) for more details.
+```
+
+**Best practices:**
+- Use descriptive link text
+- Link to official sources
+- Provide context around links
 
 ### Image Best Practices
 
